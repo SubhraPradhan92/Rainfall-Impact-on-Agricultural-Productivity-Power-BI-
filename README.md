@@ -62,3 +62,6 @@ Month (if transformed)
 📸 Dashboard Screenshots
 
 https://github.com/SubhraPradhan92/Rainfall-Impact-on-Agricultural-Productivity-Power-BI-/blob/main/Screenshot%20of%20dashboard_Pg1.jpeg
+
+https://github.com/SubhraPradhan92/Rainfall-Impact-on-Agricultural-Productivity-Power-BI-/blob/main/Screenshot%20of%20dashboard_Pg2.jpeg
+
