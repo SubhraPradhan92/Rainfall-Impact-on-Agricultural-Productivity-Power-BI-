@@ -11,6 +11,7 @@ Evaluate the relationship between rainfall and agricultural productivity
 Identify regional and seasonal variations
 Build an interactive dashboard for data exploration
 Generate actionable insights for stakeholders
+
 📂 Dataset Information
 Source: Provided dataset (rain-agriculture.csv)
 Time Period: 1966 – 2017
@@ -20,11 +21,13 @@ Year
 District Code
 Rice Area (1000 hectares)
 Monthly Rainfall (June, July, August, September)
+
 🛠️ Tools & Technologies
 Power BI – Dashboard development
 Power Query – Data cleaning & transformation
 DAX (Data Analysis Expressions) – Calculated measures
 Excel/CSV – Data source
+
 🔄 Data Preparation & Modeling
 Cleaned missing and inconsistent data
 Standardized column formats and data types
@@ -35,18 +38,27 @@ Average Rainfall
 Total Rice Area
 (Optional) Unpivoted rainfall columns for better time-series analysis
 Built a structured data model for efficient analysis
+
 📊 Dashboard Features
+
 📈 Rainfall Trend Analysis
 Line chart showing rainfall trends over time
+
 📊 Productivity Comparison
 Bar chart comparing rice cultivation area across states
+
 🔵 Correlation Analysis
 Scatter plot showing relationship between rainfall and productivity
+
 🗺️ Geographic Insights
 Map visual highlighting regional variations
+
 🎛️ Interactive Filters
 Slicers for:
 Year
 State
 Month (if transformed)
+
 📸 Dashboard Screenshots
+
+https://github.com/SubhraPradhan92/Rainfall-Impact-on-Agricultural-Productivity-Power-BI-/blob/main/Screenshot%20of%20dashboard_Pg1.jpeg
